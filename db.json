@@ -1,85 +1,166 @@
 {
-    "director_data":[
-      {
-        "id": 1,
-        "code": "#D001",
-        "first_name": "Reid",
-        "last_name": "Spinka",
-        "email": "Maribel96@gmail.com",
-        "role": "Director"
-      },
-      {
-        "id": 2,
-        "code": "#D002",
-        "first_name": "Abner",
-        "last_name": "Dare",
-        "email": "Jordy_Kirlin33@gmail.com",
-        "role": "Director"
-      },
-      {
-        "id": 3,
-        "code": "#D003",
-        "first_name": "Oral",
-        "last_name": "Wunsch",
-        "email": "Mathias_Lehner14@yahoo.com",
-        "role": "Director"
-      },
-      {
-        "id": 4,
-        "code": "#D004",
-        "first_name": "Gerhard",
-        "last_name": "Kihn",
-        "email": "Maryjane.Mueller95@yahoo.com",
-        "role": "Director"
-      },
-      {
-        "id": 5,
-        "code": "#D005",
-        "first_name": "Kale",
-        "last_name": "Gutkowski",
-        "email": "Shany13@yahoo.com",
-        "role": "Director"
-      },
-      {
-        "id": 6,
-        "code": "#D006",
-        "first_name": "Liana",
-        "last_name": "Zemlak",
-        "email": "Madonna_Waelchi@gmail.com",
-        "role": "Director"
-      },
-      {
-        "id": 7,
-        "code": "#D007",
-        "first_name": "Kathryne",
-        "last_name": "Mayert",
-        "email": "Albin_Wintheiser@hotmail.com",
-        "role": "Director"
-      },
-      {
-        "id": 8,
-        "code": "#D008",
-        "first_name": "Emerson",
-        "last_name": "Von",
-        "email": "Walter.Reichel@yahoo.com",
-        "role": "Director"
-      },
-      {
-        "id": 9,
-        "code": "#D009",
-        "first_name": "Rick",
-        "last_name": "Reichert",
-        "email": "Zion_Rohan45@gmail.com",
-        "role": "Director"
-      },
-      {
-        "id": 10,
-        "code": "#D0010",
-        "first_name": "Patricia",
-        "last_name": "Denesik",
-        "email": "Stanley46@yahoo.com",
-        "role": "Director"
-      }
-    ]
-  }
-  
+  "director_data":[
+    {
+      "id": 1,
+      "code": "#D001",
+      "first_name": "Reid",
+      "last_name": "Spinka",
+      "email": "Maribel96@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 2,
+      "code": "#D002",
+      "first_name": "Abner",
+      "last_name": "Dare",
+      "email": "Jordy_Kirlin33@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 3,
+      "code": "#D003",
+      "first_name": "Oral",
+      "last_name": "Wunsch",
+      "email": "Mathias_Lehner14@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 4,
+      "code": "#D004",
+      "first_name": "Gerhard",
+      "last_name": "Kihn",
+      "email": "Maryjane.Mueller95@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 5,
+      "code": "#D005",
+      "first_name": "Kale",
+      "last_name": "Gutkowski",
+      "email": "Shany13@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 6,
+      "code": "#D006",
+      "first_name": "Liana",
+      "last_name": "Zemlak",
+      "email": "Madonna_Waelchi@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 7,
+      "code": "#D007",
+      "first_name": "Kathryne",
+      "last_name": "Mayert",
+      "email": "Albin_Wintheiser@hotmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 8,
+      "code": "#D008",
+      "first_name": "Emerson",
+      "last_name": "Von",
+      "email": "Walter.Reichel@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 9,
+      "code": "#D009",
+      "first_name": "Rick",
+      "last_name": "Reichert",
+      "email": "Zion_Rohan45@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 10,
+      "code": "#D0010",
+      "first_name": "Patricia",
+      "last_name": "Denesik",
+      "email": "Stanley46@yahoo.com",
+      "role": "Director"
+    }
+  ],
+  "employe_data":[
+    {
+      "id": 1,
+      "code": "#D001",
+      "first_name": "Reid",
+      "last_name": "Spinka",
+      "email": "Maribel96@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 2,
+      "code": "#D002",
+      "first_name": "Abner",
+      "last_name": "Dare",
+      "email": "Jordy_Kirlin33@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 3,
+      "code": "#D003",
+      "first_name": "Oral",
+      "last_name": "Wunsch",
+      "email": "Mathias_Lehner14@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 4,
+      "code": "#D004",
+      "first_name": "Gerhard",
+      "last_name": "Kihn",
+      "email": "Maryjane.Mueller95@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 5,
+      "code": "#D005",
+      "first_name": "Kale",
+      "last_name": "Gutkowski",
+      "email": "Shany13@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 6,
+      "code": "#D006",
+      "first_name": "Liana",
+      "last_name": "Zemlak",
+      "email": "Madonna_Waelchi@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 7,
+      "code": "#D007",
+      "first_name": "Kathryne",
+      "last_name": "Mayert",
+      "email": "Albin_Wintheiser@hotmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 8,
+      "code": "#D008",
+      "first_name": "Emerson",
+      "last_name": "Von",
+      "email": "Walter.Reichel@yahoo.com",
+      "role": "Director"
+    },
+    {
+      "id": 9,
+      "code": "#D009",
+      "first_name": "Rick",
+      "last_name": "Reichert",
+      "email": "Zion_Rohan45@gmail.com",
+      "role": "Director"
+    },
+    {
+      "id": 10,
+      "code": "#D0010",
+      "first_name": "Patricia",
+      "last_name": "Denesik",
+      "email": "Stanley46@yahoo.com",
+      "role": "Director"
+    }
+  ]
+} 
