@@ -3,15 +3,29 @@ module.exports = function () {
     const faker = require("faker");
     const _ = require("lodash");
     return{
-        director:_.times(10, function(n){
-            n=n+1
-            return {
-                id:n,
-                code: '#D00'+n,
-                first_name: faker.name.firstName(),
-                last_name: faker.name.lastName(),
-                email: faker.internet.email(),
-                role:"Director"
+        deals:_.times(4, function(n){
+            
+            n=n+13
+            
+            return{
+                display_name:"Best in the month!",
+                type:"Life Style",
+                main:{
+                    id:n,
+                    image:faker.image.image(),
+                    name: faker.system.fileName(),
+                    route_type: 'category',
+                },
+                sub:_.times(4, function(d){
+                    d=d+1
+                    return{
+                        id:d,
+                        type:"Life Style",
+                        route_type: 'category',
+                        image: faker.image.image(),
+                        name: faker.system.fileName(),
+                    }
+                })
             }
         }),
     }
