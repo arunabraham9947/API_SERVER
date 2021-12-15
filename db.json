@@ -109,20 +109,6 @@
         "name": "bacon.p10"
       },
       {
-        "id": 3,
-        "type": "Essential",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/abstract",
-        "name": "generating_designer.jnlp"
-      },
-      {
-        "id": 4,
-        "type": "Essential",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/transport",
-        "name": "structure.wad"
-      },
-      {
         "id": 5,
         "type": "Essential",
         "route_type": "category",
@@ -130,20 +116,6 @@
         "name": "copying.opml"
       },
       
-      {
-        "id": 12,
-        "type": "Bulk",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/fashion",
-        "name": "chair_avon_plain.kpxx"
-      },
-      {
-        "id": 13,
-        "type": "Bulk",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/animals",
-        "name": "deliver_uae_blue.ssml"
-      },
       {
         "id": 14,
         "type": "Bulk",
@@ -159,47 +131,11 @@
         "name": "disintermediate_money_customized.uvx"
       },
       {
-        "id": 16,
-        "type": "Bulk",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/sports",
-        "name": "visionary.slt"
-      },
-      
-      {
-        "id": 23,
-        "type": "Life Style",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/abstract",
-        "name": "e_business.mdb"
-      },
-      {
         "id": 24,
         "type": "Life Style",
         "route_type": "category",
         "image": "http://placeimg.com/640/480/technics",
         "name": "transmitting_sleek.cdmiq"
-      },
-      {
-        "id": 25,
-        "type": "Life Style",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/people",
-        "name": "open_source_web_enabled_transform.odm"
-      },
-      {
-        "id": 26,
-        "type": "Life Style",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/business",
-        "name": "clothing_hat_national.sgl"
-      },
-      {
-        "id": 27,
-        "type": "Life Style",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/sports",
-        "name": "ai.cfs"
       },
       {
         "id": 28,
@@ -214,28 +150,6 @@
         "route_type": "category",
         "image": "http://placeimg.com/640/480/sports",
         "name": "dollar_cheese_gorgeous.webmanifest"
-      },
-      {
-        "id": 30,
-        "type": "Around World",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/city",
-        "name": "frictionless_account.yml"
-      },
-      
-      {
-        "id": 35,
-        "type": "Around World",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/abstract",
-        "name": "avon_indigo.in"
-      },
-      {
-        "id": 36,
-        "type": "Around World",
-        "route_type": "category",
-        "image": "http://placeimg.com/640/480/food",
-        "name": "transmit_refined_games.mb"
       },
       {
         "id": 37,
@@ -277,6 +191,20 @@
           "route_type": "category",
           "image": "http://placeimg.com/640/480/transport",
           "name": "fresh_tugrik_regional.itp"
+        },
+        {
+          "id": 3,
+          "type": "Around World",
+          "route_type": "category",
+          "image": "http://placeimg.com/640/480/nightlife",
+          "name": "granite.setpay"
+        },
+        {
+          "id": 4,
+          "type": "Around World",
+          "route_type": "category",
+          "image": "http://placeimg.com/640/480/business",
+          "name": "drive.vcg"
         }
       ]
     },
@@ -477,46 +405,6 @@
           "route_type": "category",
           "image": "http://placeimg.com/640/480/city",
           "name": "directives_ball.bed"
-        }
-      ]
-    },
-    {
-      "display_name": "Best in the month!",
-      "type": "Life Style",
-      "main": {
-        "id": 14,
-        "image": "http://placeimg.com/640/480/nightlife",
-        "name": "reboot_engineer.pvb",
-        "route_type": "category"
-      },
-      "sub": [
-        {
-          "id": 1,
-          "type": "Life Style",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/animals",
-          "name": "quantifying_table.chrt"
-        },
-        {
-          "id": 2,
-          "type": "Life Style",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/nightlife",
-          "name": "bike.scd"
-        },
-        {
-          "id": 3,
-          "type": "Life Style",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/food",
-          "name": "missouri_integrated.f"
-        },
-        {
-          "id": 4,
-          "type": "Life Style",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/sports",
-          "name": "multi_tiered_metrics_parsing.bdm"
         }
       ]
     }
