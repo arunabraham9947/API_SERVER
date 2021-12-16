@@ -78,85 +78,96 @@
   },
   "deals":[
     {
-      "display_name": "Best in the month!",
-      "type": "Around World",
-      "main": {
-        "id": 1,
-        "image": "http://placeimg.com/640/480/abstract",
-        "name": "green.jam",
-        "route_type": "category"
-      },
-      "sub": [
+      "status": "success",
+      "response_code": "200",
+      "data": [
         {
-          "id": 1,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/sports",
-          "name": "health_global.uvt"
+          "section_type": "essential",
+          "Display_name": "Best in the month !",
+          "parent": [
+            {
+              "id": 1,
+              "image": "http://placeimg.com/640/480/animals",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            }
+          ],
+          "child": [
+            {
+              "id": 1,
+              "image": "http://placeimg.com/640/480/technics",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            },
+            {
+              "id": 2,
+              "image": "http://placeimg.com/640/480/business",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 2
+            },
+            {
+              "id": 3,
+              "image": "http://placeimg.com/640/480/sports",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 3
+            },
+            {
+              "id": 4,
+              "image": "http://placeimg.com/640/480/nightlife",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 4
+            }
+          ]
         },
         {
-          "id": 2,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/transport",
-          "name": "fresh_tugrik_regional.itp"
-        },
-        {
-          "id": 3,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/nightlife",
-          "name": "granite.setpay"
-        },
-        {
-          "id": 4,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/business",
-          "name": "drive.vcg"
-        }
-      ]
-    },
-    {
-      "display_name": "Best in the month!",
-      "type": "Around World",
-      "main": {
-        "id": 4,
-        "image": "http://placeimg.com/640/480/animals",
-        "name": "tan.rgb",
-        "route_type": "category"
-      },
-      "sub": [
-        {
-          "id": 1,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/people",
-          "name": "holistic_associate_bluetooth.mdp"
-        },
-        {
-          "id": 2,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/nightlife",
-          "name": "website.tiff"
-        },
-        {
-          "id": 3,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/nightlife",
-          "name": "granite.setpay"
-        },
-        {
-          "id": 4,
-          "type": "Around World",
-          "route_type": "category",
-          "image": "http://placeimg.com/640/480/business",
-          "name": "drive.vcg"
+          "section_type": "essential",
+          "Display_name": "Best in the Week !",
+          "parent": [
+            {
+              "id": 2,
+              "image": "http://placeimg.com/640/480/city",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            }
+          ],
+          "child": [
+            {
+              "id": 1,
+              "image": "http://placeimg.com/640/480/people",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            },
+            {
+              "id": 2,
+              "image": "http://placeimg.com/640/480/transport",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 2
+            },
+            {
+              "id": 3,
+              "image": "http://placeimg.com/640/480/people",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 3
+            },
+            {
+              "id": 4,
+              "image": "http://placeimg.com/640/480/people",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 4
+            }
+          ]
         }
       ]
     }
-    
   ]
 } 
