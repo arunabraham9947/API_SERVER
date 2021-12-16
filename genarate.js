@@ -6,7 +6,7 @@ module.exports = function () {
         deals:{
             status: "success",
             response_code: "200",
-            data:_.times(2, function(n){
+            data:_.times(4, function(n){
                 n=n+1
                 return{
                     section_type:"essential",

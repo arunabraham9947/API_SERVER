@@ -87,7 +87,7 @@
           "parent": [
             {
               "id": 1,
-              "image": "http://placeimg.com/640/480/animals",
+              "image": "http://placeimg.com/640/480/abstract",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 1
@@ -96,14 +96,57 @@
           "child": [
             {
               "id": 1,
-              "image": "http://placeimg.com/640/480/technics",
+              "image": "http://placeimg.com/640/480/sports",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 1
             },
             {
               "id": 2,
-              "image": "http://placeimg.com/640/480/business",
+              "image": "http://placeimg.com/640/480/nightlife",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 2
+            },
+            {
+              "id": 3,
+              "image": "http://placeimg.com/640/480/transport",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 3
+            },
+            {
+              "id": 4,
+              "image": "http://placeimg.com/640/480/nature",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 4
+            }
+          ]
+        },
+        {
+          "section_type": "essential",
+          "Display_name": "Best in the month !",
+          "parent": [
+            {
+              "id": 2,
+              "image": "http://placeimg.com/640/480/sports",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            }
+          ],
+          "child": [
+            {
+              "id": 1,
+              "image": "http://placeimg.com/640/480/nature",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            },
+            {
+              "id": 2,
+              "image": "http://placeimg.com/640/480/food",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 2
@@ -117,7 +160,7 @@
             },
             {
               "id": 4,
-              "image": "http://placeimg.com/640/480/nightlife",
+              "image": "http://placeimg.com/640/480/business",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 4
@@ -126,11 +169,11 @@
         },
         {
           "section_type": "essential",
-          "Display_name": "Best in the Week !",
+          "Display_name": "Best in the month !",
           "parent": [
             {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/city",
+              "id": 3,
+              "image": "http://placeimg.com/640/480/cats",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 1
@@ -146,6 +189,49 @@
             },
             {
               "id": 2,
+              "image": "http://placeimg.com/640/480/fashion",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 2
+            },
+            {
+              "id": 3,
+              "image": "http://placeimg.com/640/480/technics",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 3
+            },
+            {
+              "id": 4,
+              "image": "http://placeimg.com/640/480/abstract",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 4
+            }
+          ]
+        },
+        {
+          "section_type": "essential",
+          "Display_name": "Best in the month !",
+          "parent": [
+            {
+              "id": 4,
+              "image": "http://placeimg.com/640/480/transport",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            }
+          ],
+          "child": [
+            {
+              "id": 1,
+              "image": "http://placeimg.com/640/480/food",
+              "redirect_type": "group",
+              "redirecturl": "OFFER",
+              "redirect_id": 1
+            },
+            {
+              "id": 2,
               "image": "http://placeimg.com/640/480/transport",
               "redirect_type": "group",
               "redirecturl": "OFFER",
@@ -153,14 +239,14 @@
             },
             {
               "id": 3,
-              "image": "http://placeimg.com/640/480/people",
+              "image": "http://placeimg.com/640/480/technics",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 3
             },
             {
               "id": 4,
-              "image": "http://placeimg.com/640/480/people",
+              "image": "http://placeimg.com/640/480/fashion",
               "redirect_type": "group",
               "redirecturl": "OFFER",
               "redirect_id": 4
