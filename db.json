@@ -76,184 +76,223 @@
       }
     ]
   },
-  "deals":[
-    {
-      "status": "success",
-      "response_code": "200",
-      "data": [
-        {
-          "section_type": "essential",
-          "Display_name": "Best in the month !",
-          "parent": [
-            {
-              "id": 1,
-              "image": "http://placeimg.com/640/480/abstract",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            }
-          ],
-          "child": [
-            {
-              "id": 1,
-              "image": "http://placeimg.com/640/480/sports",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            },
-            {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/nightlife",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 2
-            },
-            {
-              "id": 3,
-              "image": "http://placeimg.com/640/480/transport",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 3
-            },
-            {
-              "id": 4,
-              "image": "http://placeimg.com/640/480/nature",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 4
-            }
-          ]
-        },
-        {
-          "section_type": "essential",
-          "Display_name": "Best in the month !",
-          "parent": [
-            {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/sports",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            }
-          ],
-          "child": [
-            {
-              "id": 1,
-              "image": "http://placeimg.com/640/480/nature",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            },
-            {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/food",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 2
-            },
-            {
-              "id": 3,
-              "image": "http://placeimg.com/640/480/sports",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 3
-            },
-            {
-              "id": 4,
-              "image": "http://placeimg.com/640/480/business",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 4
-            }
-          ]
-        },
-        {
-          "section_type": "essential",
-          "Display_name": "Best in the month !",
-          "parent": [
-            {
-              "id": 3,
-              "image": "http://placeimg.com/640/480/cats",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            }
-          ],
-          "child": [
-            {
-              "id": 1,
-              "image": "http://placeimg.com/640/480/people",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            },
-            {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/fashion",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 2
-            },
-            {
-              "id": 3,
-              "image": "http://placeimg.com/640/480/technics",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 3
-            },
-            {
-              "id": 4,
-              "image": "http://placeimg.com/640/480/abstract",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 4
-            }
-          ]
-        },
-        {
-          "section_type": "essential",
-          "Display_name": "Best in the month !",
-          "parent": [
-            {
-              "id": 4,
-              "image": "http://placeimg.com/640/480/transport",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            }
-          ],
-          "child": [
-            {
-              "id": 1,
-              "image": "http://placeimg.com/640/480/food",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 1
-            },
-            {
-              "id": 2,
-              "image": "http://placeimg.com/640/480/transport",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 2
-            },
-            {
-              "id": 3,
-              "image": "http://placeimg.com/640/480/technics",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 3
-            },
-            {
-              "id": 4,
-              "image": "http://placeimg.com/640/480/fashion",
-              "redirect_type": "group",
-              "redirecturl": "OFFER",
-              "redirect_id": 4
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "deals":{
+    "status": "success",
+    "response_code": "200",
+    "data": [
+      {
+        "id": 1,
+        "image": "http://placeimg.com/640/480/transport",
+        "redirect_type": "group",
+        "redirecturl": "OFFER",
+        "redirect_id": 1,
+        "display_name": "Best of month !",
+        "Priorty": 1,
+        "section_type": "essential",
+        "child": [
+          {
+            "id": 1,
+            "image": "http://placeimg.com/640/480/fashion",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 1
+          },
+          {
+            "id": 2,
+            "image": "http://placeimg.com/640/480/fashion",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 2
+          },
+          {
+            "id": 3,
+            "image": "http://placeimg.com/640/480/animals",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 3
+          },
+          {
+            "id": 4,
+            "image": "http://placeimg.com/640/480/sports",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 4
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "http://placeimg.com/640/480/business",
+        "redirect_type": "group",
+        "redirecturl": "OFFER",
+        "redirect_id": 1,
+        "display_name": "Best of month !",
+        "Priorty": 2,
+        "section_type": "bulk",
+        "child": [
+          {
+            "id": 1,
+            "image": "http://placeimg.com/640/480/fashion",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 1
+          },
+          {
+            "id": 2,
+            "image": "http://placeimg.com/640/480/food",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 2
+          },
+          {
+            "id": 3,
+            "image": "http://placeimg.com/640/480/nightlife",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 3
+          },
+          {
+            "id": 4,
+            "image": "http://placeimg.com/640/480/transport",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 4
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "http://placeimg.com/640/480/nature",
+        "redirect_type": "group",
+        "redirecturl": "OFFER",
+        "redirect_id": 1,
+        "display_name": "Best of month !",
+        "Priorty": 3,
+        "section_type": "bulk",
+        "child": [
+          {
+            "id": 1,
+            "image": "http://placeimg.com/640/480/business",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 1
+          },
+          {
+            "id": 2,
+            "image": "http://placeimg.com/640/480/sports",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 2
+          },
+          {
+            "id": 3,
+            "image": "http://placeimg.com/640/480/people",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 3
+          },
+          {
+            "id": 4,
+            "image": "http://placeimg.com/640/480/nature",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 4
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "http://placeimg.com/640/480/transport",
+        "redirect_type": "group",
+        "redirecturl": "OFFER",
+        "redirect_id": 1,
+        "display_name": "Best of month !",
+        "Priorty": 4,
+        "section_type": "bulk",
+        "child": [
+          {
+            "id": 1,
+            "image": "http://placeimg.com/640/480/city",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 1
+          },
+          {
+            "id": 2,
+            "image": "http://placeimg.com/640/480/city",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 2
+          },
+          {
+            "id": 3,
+            "image": "http://placeimg.com/640/480/nature",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 3
+          },
+          {
+            "id": 4,
+            "image": "http://placeimg.com/640/480/technics",
+            "redirect_type": "group",
+            "redirecturl": "OFFER",
+            "redirect_id": 4
+          }
+        ]
+      }
+    ]
+  },
+  "today_deal":{
+    "status": "success",
+    "response_code": "200",
+    "data": [
+      {
+        "Display_name": "Top Deals",
+        "products": [
+          {
+            "id": 1,
+            "selling_price": 20,
+            "has_offer": false,
+            "offer_price": null,
+            "offer_based_on": null,
+            "offer_percentage_price": null,
+            "is_stock": false,
+            "inventory_id": 1,
+            "name": "AVOCADO KENIYA BOX 3.5KG APROX",
+            "display_name": "AVOCADO KENIYA BOX 3.5KG APROX",
+            "image_1": "http://placeimg.com/640/480/animals",
+            "max_sales_order": 50,
+            "min_sales_order": 10,
+            "conversion_factor": "3.5KG",
+            "uom_name": "BOX",
+            "brand_name": "UNB",
+            "category_name": "FRESH FRUITS",
+            "Priorty": 1,
+            "section_type": "essential"
+          },
+          {
+            "id": 2,
+            "selling_price": 20,
+            "has_offer": false,
+            "offer_price": null,
+            "offer_based_on": null,
+            "offer_percentage_price": null,
+            "is_stock": false,
+            "inventory_id": 1,
+            "name": "AVOCADO KENIYA BOX 3.5KG APROX",
+            "display_name": "AVOCADO KENIYA BOX 3.5KG APROX",
+            "image_1": "http://placeimg.com/640/480/abstract",
+            "max_sales_order": 50,
+            "min_sales_order": 10,
+            "conversion_factor": "3.5KG",
+            "uom_name": "BOX",
+            "brand_name": "UNB",
+            "category_name": "FRESH FRUITS",
+            "Priorty": 1,
+            "section_type": "essential"
+          }
+        ]
+      }
+    ]
+  }
 } 
