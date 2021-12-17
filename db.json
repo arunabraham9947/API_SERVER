@@ -1,64 +1,62 @@
 {
-  "banner":[
-    {
-      "status": "success",
-      "response_code": "200",
-      "data": [
-        {
-          "id": 18,
-          "display_name": "apple",
-          "image": "http://placeimg.com/640/480/cats",
-          "parent": null,
-          "section_type": "essential",
-          "priorty": 2,
-          "mptt_level": 0,
-          "redirect_type": "group",
-          "redirecturl": "offer",
-          "redirect_id": 1,
-          "child": []
-        },
-        {
-          "id": 18,
-          "display_name": "apple",
-          "image": "http://placeimg.com/640/480/animals",
-          "parent": null,
-          "section_type": "essential",
-          "priorty": 2,
-          "mptt_level": 0,
-          "redirect_type": "group",
-          "redirecturl": "offer",
-          "redirect_id": 1,
-          "child": []
-        },
-        {
-          "id": 18,
-          "display_name": "apple",
-          "image": "http://placeimg.com/640/480/sports",
-          "parent": null,
-          "section_type": "essential",
-          "priorty": 2,
-          "mptt_level": 0,
-          "redirect_type": "group",
-          "redirecturl": "offer",
-          "redirect_id": 1,
-          "child": []
-        },
-        {
-          "id": 18,
-          "display_name": "apple",
-          "image": "http://placeimg.com/640/480/nature",
-          "parent": null,
-          "section_type": "essential",
-          "priorty": 2,
-          "mptt_level": 0,
-          "redirect_type": "group",
-          "redirecturl": "offer",
-          "redirect_id": 1,
-          "child": []
-        }
-      ]
-    }
-  ],
+  "banner":{
+    "status": "success",
+    "response_code": "200",
+    "data": [
+      {
+        "id": 18,
+        "display_name": "apple",
+        "image": "http://placeimg.com/640/480/cats",
+        "parent": null,
+        "section_type": "essential",
+        "priorty": 2,
+        "mptt_level": 0,
+        "redirect_type": "group",
+        "redirecturl": "offer",
+        "redirect_id": 1,
+        "child": []
+      },
+      {
+        "id": 18,
+        "display_name": "apple",
+        "image": "http://placeimg.com/640/480/animals",
+        "parent": null,
+        "section_type": "essential",
+        "priorty": 2,
+        "mptt_level": 0,
+        "redirect_type": "group",
+        "redirecturl": "offer",
+        "redirect_id": 1,
+        "child": []
+      },
+      {
+        "id": 18,
+        "display_name": "apple",
+        "image": "http://placeimg.com/640/480/sports",
+        "parent": null,
+        "section_type": "essential",
+        "priorty": 2,
+        "mptt_level": 0,
+        "redirect_type": "group",
+        "redirecturl": "offer",
+        "redirect_id": 1,
+        "child": []
+      },
+      {
+        "id": 18,
+        "display_name": "apple",
+        "image": "http://placeimg.com/640/480/nature",
+        "parent": null,
+        "section_type": "essential",
+        "priorty": 2,
+        "mptt_level": 0,
+        "redirect_type": "group",
+        "redirecturl": "offer",
+        "redirect_id": 1,
+        "child": []
+      }
+    ]
+  },
   "popular_category":{
     "display_name": "Popular Category",
     "data": [
